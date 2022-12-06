@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobikop
+- 👋 Hi, I’m Boban.
 - 👀 I’m interested in learning and improving my Java skils.
 - 🌱 I’m currently learning Java programing with Sydeo!
 - 💞️ I’m looking to collaborate on ...
